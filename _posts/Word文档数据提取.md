@@ -1,3 +1,14 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      My First Post 				# 标题 
+subtitle:   word文档数据提取, 数据  提取 #副标题
+date:       2019-09-04 				# 时间
+author:     程全海 						# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 数据
+---
 ### Word数据提取
 
 **原始数据**：*Word文档（各个项目点模板差距有点大）这里以标准文档为例图片经过打码处理*
